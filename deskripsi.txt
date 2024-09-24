@@ -1,0 +1,6 @@
+Alur Program:
+Tampilan Nama Kelompok: Program pertama kali menampilkan daftar anggota kelompok dengan warna merah.
+Menu Utama: Setelah itu, program menampilkan menu pilihan operasi kalkulator.
+Input dan Perhitungan: Pengguna memasukkan pilihan (misalnya operasi pertambahan), lalu diminta memasukkan dua angka untuk dihitung.
+Hasil dan Konfirmasi: Program menampilkan hasil operasi, kemudian menanyakan apakah pengguna ingin melanjutkan perhitungan atau kembali ke menu utama.
+Fungsi Tambahan: Jika pengguna memilih tutorial atau penjelasan, maka program menampilkan informasi yang relevan.
